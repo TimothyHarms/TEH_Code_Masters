@@ -1,0 +1,24 @@
+************* WORKFLOW *************
+************************************
+
+Here are the variables which should 
+be declared before running through 
+the whole workflow
+
+*********** Case running ***********
+Case:
+0
+(Enter 0 for importing input files)
+(Enter 1 for making a cylinder)
+
+************************************
+Aponeurosis case id:
+2
+(1~9)
+
+************************************
+********* Cylinder making **********
+length:
+50
+radius:
+10
